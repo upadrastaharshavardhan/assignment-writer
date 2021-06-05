@@ -1,3 +1,3 @@
 # assignment-writer
-https://upadrastaharshavardhan.github.io/assignment-writer/index.html
+https://upadrastaharshavardhan.github.io/assignment-writer/i.html
 
