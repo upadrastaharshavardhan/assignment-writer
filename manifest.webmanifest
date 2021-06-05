@@ -1,6 +1,6 @@
 {
-  "name": "Text to Handwriting",
-  "short_name": "Text to Handwriting",
+  "name": "assignment-writer",
+  "short_name": "assignment-writer",
   "icons": [
     {
       "src": "images/android-chrome-192x192.png",
